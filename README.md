@@ -12,6 +12,7 @@
 | 2026 | 电磁学 | 第 2 题 | 圆柱电流磁场、电子束偏转与圆柱电磁波 | [查看题解](2026/Electromagnetism/Problem-2.pdf) |
 | 2026 | 量子力学 | 第 3 题 | 无限深势阱、能量测量与涨落、散射相移 | [查看题解](2026/Quantum-Mechanics/Problem-3.pdf) |
 | 2026 | 热力学与统计力学 | 第 4 题 | 独立自旋、Ising 平均场、自洽方程与临界行为 | [查看题解](2026/Thermodynamics-and-Statistical-Mechanics/Problem-4.pdf) |
+| 2025 | 力学 | 第 1 题 | 旋转参考系、惯性力与共线拉格朗日点 | [查看题解](2025/Mechanics/Problem-1.pdf) |
 
 ## 分类约定
 
