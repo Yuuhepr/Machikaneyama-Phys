@@ -16,6 +16,7 @@
 | 2025 | 电磁学 | 第 2 题 | 平面电磁波、趋肤效应与超导磁场屏蔽 | [查看题解](2025/Electromagnetism/Problem-2.pdf) |
 | 2025 | 量子力学 | 第 3 题 | 谐振子、宇称、动量平移与跃迁概率 | [查看题解](2025/Quantum-Mechanics/Problem-3.pdf) |
 | 2025 | 热力学与统计力学 | 第 4 题 | 二维电子气、Pauli 顺磁性、经典轨道磁性与 Landau 抗磁性 | [查看题解](2025/Thermodynamics-and-Statistical-Mechanics/Problem-4.pdf) |
+| 2024 | 力学 | 第 1 题 | 阿特伍德机、滑轮转动惯量与拉格朗日乘子 | [查看题解](2024/Mechanics/Problem-1.pdf) |
 
 ## 分类约定
 
