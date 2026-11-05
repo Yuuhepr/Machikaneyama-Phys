@@ -20,6 +20,7 @@
 | 2024 | 电磁学 | 第 2 题 | 坡印廷定理、平面波能流与导线中的能量传输 | [查看题解](2024/Electromagnetism/Problem-2.pdf) |
 | 2024 | 量子力学 | 第 3 题 | 环上粒子、Aharonov–Bohm 效应、宇称与简并微扰 | [查看题解](2024/Quantum-Mechanics/Problem-3.pdf) |
 | 2024 | 热力学与统计力学 | 第 4 题 | 量子谐振子、系综、态密度与低温比热 | [查看题解](2024/Thermodynamics-and-Statistical-Mechanics/Problem-4.pdf) |
+| 2023 | 力学 | 第 1 题 | 耦合振子、质心与相对运动、简正模与拍振 | [查看题解](2023/Mechanics/Problem-1.pdf) |
 
 ## 分类约定
 
