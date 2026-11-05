@@ -18,6 +18,7 @@
 | 2025 | 热力学与统计力学 | 第 4 题 | 二维电子气、Pauli 顺磁性、经典轨道磁性与 Landau 抗磁性 | [查看题解](2025/Thermodynamics-and-Statistical-Mechanics/Problem-4.pdf) |
 | 2024 | 力学 | 第 1 题 | 阿特伍德机、滑轮转动惯量与拉格朗日乘子 | [查看题解](2024/Mechanics/Problem-1.pdf) |
 | 2024 | 电磁学 | 第 2 题 | 坡印廷定理、平面波能流与导线中的能量传输 | [查看题解](2024/Electromagnetism/Problem-2.pdf) |
+| 2024 | 量子力学 | 第 3 题 | 环上粒子、Aharonov–Bohm 效应、宇称与简并微扰 | [查看题解](2024/Quantum-Mechanics/Problem-3.pdf) |
 
 ## 分类约定
 
