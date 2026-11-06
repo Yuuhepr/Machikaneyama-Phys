@@ -24,6 +24,7 @@
 | 2023 | 电磁学 | 第 2 题 | 带电粒子螺旋运动、磁矩守恒与磁镜反射 | [查看题解](2023/Electromagnetism/Problem-2.pdf) |
 | 2023 | 量子力学 | 第 3 题 | 自旋 1/2、旋转磁场、绝热与突变极限 | [查看题解](2023/Quantum-Mechanics/Problem-3.pdf) |
 | 2023 | 热力学与统计力学 | 第 4 题 | 谐振子势阱中的玻色气体、态密度与玻色–爱因斯坦凝聚 | [查看题解](2023/Thermodynamics-and-Statistical-Mechanics/Problem-4.pdf) |
+| 2022 | 力学 | 第 1 题 | 物理摆、角冲量、可动支点与小振动 | [查看题解](2022/Mechanics/Problem-1.pdf) |
 
 ## 分类约定
 
