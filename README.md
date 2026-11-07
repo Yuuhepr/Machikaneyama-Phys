@@ -27,6 +27,7 @@
 | 2022 | 力学 | 第 1 题 | 物理摆、角冲量、可动支点与小振动 | [查看题解](2022/Mechanics/Problem-1.pdf) |
 | 2022 | 电磁学 | 第 2 题 | 带电圆环电场、环电流矢势与磁偶极相互作用 | [查看题解](2022/Electromagnetism/Problem-2.pdf) |
 | 2022 | 量子力学 | 第 3 题 | δ 势散射、反射与透射、双 δ 势传递矩阵 | [查看题解](2022/Quantum-Mechanics/Problem-3.pdf) |
+| 2022 | 热力学与统计力学 | 第 4 题 | Gibbs–Duhem 关系、玻色气体压强、表面张力与液滴蒸气压 | [查看题解](2022/Thermodynamics-and-Statistical-Mechanics/Problem-4.pdf) |
 
 ## 分类约定
 
