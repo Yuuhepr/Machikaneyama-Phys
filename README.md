@@ -33,6 +33,7 @@
 | 2021 | 量子力学 | 第 3 题 | 谐振子、角动量本征态、磁场能级与 Landau 极限 | [查看题解](2021/Quantum-Mechanics/Problem-3.pdf) |
 | 2021 | 热力学与统计力学 | 第 4 题 | 磁性热力学、热容关系、独立自旋与低温比热 | [查看题解](2021/Thermodynamics-and-Statistical-Mechanics/Problem-4.pdf) |
 | 2020 | 力学 | 第 1 题 | 单摆、平均张力、缓变绳长与绝热不变量 | [查看题解](2020/Mechanics/Problem-1.pdf) |
+| 2020 | 电磁学 | 第 2 题 | 无限长导线磁场、电磁感应、推迟势与因果传播 | [查看题解](2020/Electromagnetism/Problem-2.pdf) |
 
 ## 分类约定
 
