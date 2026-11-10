@@ -37,6 +37,7 @@
 | 2020 | 量子力学 | 第 3 题 | 角动量耦合、Clebsch–Gordan 系数与铯原子超精细分裂 | [查看题解](2020/Quantum-Mechanics/Problem-3.pdf) |
 | 2020 | 热力学与统计力学 | 第 4 题 | 二能级系统、顺磁性、绝热退磁与三能级 Schottky 比热 | [查看题解](2020/Thermodynamics-and-Statistical-Mechanics/Problem-4.pdf) |
 | 2019 | 力学 | 第 1 题 | 二维谐振子、旋转参考系、拉莫尔进动与轨道磁矩 | [查看题解](2019/Mechanics/Problem-1.pdf) |
+| 2019 | 电磁学 | 第 2 题 | 平面电磁波、菲涅耳系数、布儒斯特角与偏振滤光 | [查看题解](2019/Electromagnetism/Problem-2.pdf) |
 
 ## 分类约定
 
