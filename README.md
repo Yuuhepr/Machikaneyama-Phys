@@ -42,6 +42,7 @@
 | 2019 | 热力学与统计力学 | 第 4 题 | 热容关系、卡诺循环、Clapeyron 方程与汽化潜热 | [查看题解](2019/Thermodynamics-and-Statistical-Mechanics/Problem-4.pdf) |
 | 2018 | 力学 | 第 1 题 | 圆盘纯滚动、可转动圆弧轨道、耦合小振动与简正模 | [查看题解](2018/Mechanics/Problem-1.pdf) |
 | 2018 | 电磁学 | 第 2 题 | 介质球极化、Clausius–Mossotti 关系、局域场与 Lorentz 振子吸收 | [查看题解](2018/Electromagnetism/Problem-2.pdf) |
+| 2018 | 量子力学 | 第 3 题 | 对称双势阱、宇称、波函数匹配与隧穿劈裂 | [查看题解](2018/Quantum-Mechanics/Problem-3.pdf) |
 
 ## 分类约定
 
