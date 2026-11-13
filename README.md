@@ -44,6 +44,7 @@
 | 2018 | 电磁学 | 第 2 题 | 介质球极化、Clausius–Mossotti 关系、局域场与 Lorentz 振子吸收 | [查看题解](2018/Electromagnetism/Problem-2.pdf) |
 | 2018 | 量子力学 | 第 3 题 | 对称双势阱、宇称、波函数匹配与隧穿劈裂 | [查看题解](2018/Quantum-Mechanics/Problem-3.pdf) |
 | 2018 | 热力学与统计力学 | 第 4 题 | 经典 XY 自旋链、磁化率涨落关系、高低温展开与关联长度 | [查看题解](2018/Thermodynamics-and-Statistical-Mechanics/Problem-4.pdf) |
+| 2017 | 力学 | 第 1 题 | 开普勒轨道、有效势、近日点与远日点、维里定理 | [查看题解](2017/Mechanics/Problem-1.pdf) |
 
 ## 分类约定
 
