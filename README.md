@@ -48,6 +48,7 @@
 | 2017 | 电磁学 | 第 2 题 | 等离子体色散、截止频率、群速度与电子柱密度 | [查看题解](2017/Electromagnetism/Problem-2.pdf) |
 | 2017 | 量子力学 | 第 3 题 | 氢原子基态、角动量量子化、自旋轨道耦合与能级劈裂 | [查看题解](2017/Quantum-Mechanics/Problem-3.pdf) |
 | 2017 | 热力学与统计力学 | 第 4 题 | 谐振子、晶格振动、声子计数与 Debye 低温热容 | [查看题解](2017/Thermodynamics-and-Statistical-Mechanics/Problem-4.pdf) |
+| 2016 | 力学 | 第 1 题 | 实心球滑动与纯滚动、摩擦耗能、偏心冲量与反旋运动 | [查看题解](2016/Mechanics/Problem-1.pdf) |
 
 ## 分类约定
 
